@@ -65,7 +65,8 @@ class MyApp extends StatelessWidget {
         'Kawah putih merupakan sebuah danau yang terbentuk dari letusan Gunung ' 
         'Patuha. Tanah yang bercampur belerang di sekitar kawah ini berwarna putih, ' 
         'lalu warna air yang berada di kawah ini berwarna putih kehijauan, '
-        'yang unik dari kawah ini adalah airnya kadang berubah warna. ',
+        'yang unik dari kawah ini adalah airnya kadang berubah warna. '
+        '2341760068 - Jaden Natha Kautsar',
         softWrap: true,
       ),
     );
@@ -79,7 +80,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(
-              'images/kwhputih.jpeg',
+              'images/kawahPutih.jpeg',
               width: 600,
               height: 240,
               fit: BoxFit.cover,
